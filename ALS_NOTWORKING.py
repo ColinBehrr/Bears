@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+''' NOT WORKING -- PSEUDOCODE:
+1.) Read game/play data
+2.) Collect current weather of play
+3.) Perform feature engineering (performance metrics, weighting defense, etc.)
+4.) apply trained ALS model (pass or rush) to play
+5.) output rec
+'''
 # In[3]:
 
 
