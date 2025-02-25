@@ -1,5 +1,5 @@
 
-# Un-Bear-able Offense: Using Machine Learning for Chicago Bears Play Calling
+# Un-Bear-able Offense: Bad Play Calling meets Machine Learning
 
 ## Author
 Colin Behr  
