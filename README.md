@@ -25,12 +25,14 @@ the aim is to implement them to recommend optimal plays (i.e., pass deep left) f
 ├── preprocessing.py                # Various data preprocessing 
 ├── conversions.py                  # Converts categorical data to numeric values
 ├── datasets/                       # all datasets used to create ALL.csv/xlsx
-│   ├── ALL Bears Data.xlsx
-│   ├── nfl_passing_stats.xlsx
-│   ├── nfl_rushing_stats.xlsx
-│   ├── nfl_Dpassing_sscores.xlsx
-│   ├── nfl_rushing_sscores.xlsx
-│   └── defense_scoring.xlsx
+│   ├── ALL.csv                     #FINAL dataset containing all game data
+│   ├── NFL Stadium Latitude and Longitude.csv
+├── exports/
+│   ├── nfl_passing_stats.xlsx/csv
+│   ├── nfl_rushing_stats.xlsx/csv
+│   ├── nfl_passing_scores.xlsx/csv
+│   ├── nfl_rushing_scores.xlsx/csv
+│   └── defense_scoring.xlsx/csv
 
 ```
 
