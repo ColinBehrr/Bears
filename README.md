@@ -14,16 +14,11 @@ the aim is to implement them to recommend optimal plays (i.e., pass deep left) f
 ```
 ├── README.md                       # Project overview and instructions
 ├── PFR                             # Various scraping files to get play-by-play from profootballreference
-├── ALS_NOTWORKING.py               # ALS model pipeline (currently pseudocode/in development)
 ├── API Call.py                     # Fetches weather data via Visual Crossing API
 ├── Game Coords Adding.py           # Adds game coordinates for weather calls
 ├── Hourly Weather Datasheet Creation.py # Creates hourly weather data entries (i.e., 3 hours for 1 full game)
 ├── NFL Passing O.py                # Scrapes ALL NFL passing offense stats
 ├── NFL Rushing O.py                # Scrapes ALL NFL rushing offense stats
-├── RF Model v1.py                  # Random Forest model for predicting play type (i.e., pass or run)
-├── ToGo_Sort.py                    # Categorizes plays by yards-to-go situations (i.e., 3rd and 9 = Long)
-├── preprocessing.py                # Various data preprocessing 
-├── conversions.py                  # Converts categorical data to numeric values
 ├── datasets/                       # all datasets used to create ALL.csv/xlsx
 │   ├── ALL.csv                     #FINAL dataset containing all game data
 │   ├── NFL Stadium Latitude and Longitude.csv
