@@ -1,6 +1,10 @@
 
 # Un-Bear-able Offense: Using Machine Learning for Chicago Bears Play Calling
 
+## Author
+Colin Behr  
+*Depressed Bears Fan*
+
 ## Overview
 This project integrates machine learning into play-calling decisions for the Chicago Bears. By analyzing historical game data, weather conditions, and team performance metrics, 
 the aim is to implement them to recommend optimal plays (i.e., pass deep left) for any in-game situations.
@@ -61,10 +65,6 @@ Check outputs for RMSE values and ALS modeling potential success
 - scikit-learn
 - requests
 - misc. built-in packages
-
-## Author
-Colin Behr  
-*Sports Analytics Enthusiast*
 
 ## Acknowledgments
 - NFL and profootballreference for public data access
