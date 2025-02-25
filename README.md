@@ -71,4 +71,4 @@ Colin Behr
 - Visual Crossing Weather for weather data API.
 - Open-source contributors to PySpark and scikit-learn
 
-## CONTRIBUTE TO THE REPO! :)
+## Contribute to the Repo & Models! #BearDown
