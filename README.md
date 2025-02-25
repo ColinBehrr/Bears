@@ -44,7 +44,7 @@ Train and evaluate play-type prediction
 See ALS Model for various linear regressions used to predict yardage gained vs actual yards on past plays.
 
 **ALS Model (Experimental)**:  
-Work in progress; refer to `ALS_NOTWORKING.py`.
+Work in progress; refer to `ALS(5).py` and other models in testing branch.
 
 ### Evaluation
 Check outputs for RMSE values and ALS modeling potential success
