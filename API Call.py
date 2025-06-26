@@ -13,7 +13,7 @@ from random import randint
 
 #set api request 
 API_BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
-API_KEY = "EJYPF6ZKYFEHSTW65PLQWLXCA"
+API_KEY = "YOUR API KEY"
 
 os.chdir('/Users/colinbehr/Desktop/RESEARCH') #wd
 
